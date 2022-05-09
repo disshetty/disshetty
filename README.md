@@ -2,5 +2,5 @@
 - 👀 I’m interested in Exploring the world 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dishanshetty@468@gmail.com
+- 📫 How to reach me dishanshetty468@gmail.com
 
